@@ -1,0 +1,87 @@
+{
+  "response": {
+    "header": {
+      "resultMsg": "NORMAL_CODE",
+      "resultCode": "00"
+    },
+    "body": {
+      "totalCount": "7160",
+      "items": {
+        "item": [
+          {
+            "ldCode": "26530",
+            "ldCodeNm": "부산광역시 사상구",
+            "jurirno": "가-15-722",
+            "bsnmCmpnm": "땅사랑공인중개사사무소",
+            "brkrNm": "김종범",
+            "sttusSeCode": "1",
+            "sttusSeCodeNm": "영업중",
+            "registDe": "2006-02-15",
+            "telnoList": "-",
+            "estbsBeginDe": "2025-02-15",
+            "estbsEndDe": "2026-02-14",
+            "lastUpdtDt": "2025-05-29"
+          },
+          {
+            "ldCode": "26530",
+            "ldCodeNm": "부산광역시 사상구",
+            "jurirno": "가-15-729",
+            "bsnmCmpnm": "대림공인중개사사무소",
+            "brkrNm": "전연숙",
+            "sttusSeCode": "1",
+            "sttusSeCodeNm": "영업중",
+            "registDe": "2006-03-02",
+            "telnoList": "-",
+            "estbsBeginDe": "2025-03-02",
+            "estbsEndDe": "2026-03-01",
+            "lastUpdtDt": "2025-05-29"
+          },
+          {
+            "ldCode": "26530",
+            "ldCodeNm": "부산광역시 사상구",
+            "jurirno": "가-15-744",
+            "bsnmCmpnm": "으뜸공인중개사사무소",
+            "brkrNm": "김구태",
+            "sttusSeCode": "1",
+            "sttusSeCodeNm": "영업중",
+            "registDe": "2006-04-18",
+            "telnoList": "-",
+            "estbsBeginDe": "2025-04-18",
+            "estbsEndDe": "2026-04-17",
+            "lastUpdtDt": "2025-05-29"
+          },
+          {
+            "ldCode": "26530",
+            "ldCodeNm": "부산광역시 사상구",
+            "jurirno": "가-15-747",
+            "bsnmCmpnm": "영림공인중개사사무소",
+            "brkrNm": "한대영",
+            "sttusSeCode": "1",
+            "sttusSeCodeNm": "영업중",
+            "registDe": "2006-05-08",
+            "telnoList": "-",
+            "estbsBeginDe": "2025-05-08",
+            "estbsEndDe": "2026-05-07",
+            "lastUpdtDt": "2025-05-29"
+          },
+          {
+            "ldCode": "26530",
+            "ldCodeNm": "부산광역시 사상구",
+            "jurirno": "가-15-757",
+            "bsnmCmpnm": "꿈있는공인중개사사무소",
+            "brkrNm": "최미숙",
+            "sttusSeCode": "1",
+            "sttusSeCodeNm": "영업중",
+            "registDe": "2006-07-04",
+            "telnoList": "-",
+            "estbsBeginDe": "2024-07-09",
+            "estbsEndDe": "2025-07-08",
+            "lastUpdtDt": "2025-05-29"
+          }
+        ]
+      },
+      "pageNo": "1",
+      "numOfRows": "5"
+    }
+  }
+}
